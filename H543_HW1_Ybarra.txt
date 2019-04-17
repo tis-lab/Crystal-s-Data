@@ -1,4 +1,4 @@
-ID	Names	FFQ30	FFQ5	hair_thg
+ID	Names	FFQ30	FFQ5	hair_thg (spell out these abbreviations for clarity)
 1	Katy	0.623287671	0.747945205	0.176710925
 2	Lettie	1.489041096	1.17260274	0.656386794
 3	Hannah	0.345205479	0.871004566	0.039592454
